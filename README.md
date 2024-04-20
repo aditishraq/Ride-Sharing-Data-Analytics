@@ -45,8 +45,6 @@ More info about dataset can be found here:
 
 ## Setup
 
-**WARNING: You will be charged for all the infra setup. You can avail 300$ in credit by creating a new account on GCP.**
-### Pre-requisites
 
 If you already have a Google Cloud account, you can skip the pre-requisite steps.
 
